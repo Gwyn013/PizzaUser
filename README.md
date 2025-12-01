@@ -1,4 +1,5 @@
 **Pizza User**
+
 Pizza User is a cross-platform pizza ordering system with Web (React + Ant Design) and Mobile (React Native + TypeScript) applications. It allows users to browse menus, manage shopping carts, view order history, and complete orders across multiple stores. The application emphasizes a modular architecture, type safety, and responsive design.
 
 **Features**
