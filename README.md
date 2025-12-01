@@ -19,29 +19,8 @@ Pizza User is a cross-platform pizza ordering system with Web (React + Ant Desig
 - HTTP Requests: Axios wrapper for network requests, with mock data support for development.
 
 **Project Structure**
-## Project Structure
-pizzaUser-master/
-├── pizza-web/           # Web application
-│   ├── public/          # Static files
-│   ├── src/
-│   │   ├── HomePage/    # Menu/Home page
-│   │   ├── CartPage/    # Shopping cart page
-│   │   ├── OrderPage/   # Order history page
-│   │   ├── MyPage/      # User profile page
-│   │   ├── common/      # Shared components and utilities
-│   │   └── images/      # Assets
-│   └── package.json
-└── pizzaUserApp/        # Mobile application
-    ├── android/         # Android native code
-    ├── ios/             # iOS native code
-    ├── src/
-    │   ├── HomePage/
-    │   ├── CartPage/
-    │   ├── OrderPage/
-    │   ├── MyPage/
-    │   ├── common/      # Components, utilities, mocks
-    │   └── images/
-    └── package.json
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/0dbfdaa2-02d2-4e16-ace4-53de942f87e6" />
 
 **Installation**
 1. Prerequisites
