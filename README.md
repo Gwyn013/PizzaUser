@@ -29,21 +29,13 @@ npm v6.x or higher (or yarn)
 Mobile development: Xcode 11+ for iOS, Android Studio for Android
 
 2. Web Application
-cd pizza-web
-npm install
-npm start
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6b84222e-e461-45c3-9170-4e1984b8ada9" />
 
 Open http://localhost:3000
  to view the app.
 
 3. Mobile Application
-cd pizzaUserApp
-npm install
-# iOS
-cd ios && pod install && cd ..
-npm run ios
-# Android
-react-native run-android
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/74565dfb-e2b1-4efc-926f-332e4f4db1e4" />
 
 **Application Pages**
 - Home Page / Menu Page: Browse menu items, add/remove items to cart, sort and search, view store information.
